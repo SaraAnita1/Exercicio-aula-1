@@ -2,6 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
         
+        // formas de escrever variáveis certas e erradas
+
         int i;
         //int i;
         int I;
@@ -31,18 +33,20 @@ public class Main {
         int QUANTIDADE_OPCOES = 25;
         //int qtdProd;
 
-        System.out.println(i);
-        System.out.println(I);
-        System.out.println(_1a);
-        System.out.println($aq);
-        
-        System.out.println(j);
-        System.out.println(asrn2467md);
-        System.out.println(asrn2$4678_md);
+        //Formas de mandar o codigo imprimir os resultados do que eu declarei acima
 
-        System.out.println(quantidadeProduto);
-        System.out.println(NUMERO_TENTATIVAS);
-        System.out.println(QUANTIDADE_OPCOES);
+        System.out.println("i = "+i);
+        System.out.println ("I = "+I);
+        System.out.println("_1a = "+_1a);
+        System.out.println("$aq = "+$aq);
+        
+        System.out.println("J = "+j);
+        System.out.println("asrn2467md = "+asrn2467md);
+        System.out.println("asrn2$4678_md = "+asrn2$4678_md);
+
+        System.out.println("quantidadeProduto = "+quantidadeProduto);
+        System.out.println("NUMERO_TENTATIVAS = "+NUMERO_TENTATIVAS);
+        System.out.println("QUANTIDADE_OPCOES = "+QUANTIDADE_OPCOES);
 
     }
 }
